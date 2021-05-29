@@ -18,7 +18,9 @@ Edit the config/keys.js file and add your MongoDB URI and Pusher key info
 
 # APP INFO
 
-  #Author
+
+# Author
+
    Shreenidhi Sharma N
 
 
