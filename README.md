@@ -2,7 +2,7 @@
 Real Time Polling App using Pusher, Node.js,mongoDB and Express
 
 
-#Quick Start
+# Quick Start
 Edit the config/keys.js file and add your MongoDB URI and Pusher key info
 
 
@@ -18,8 +18,8 @@ npm start
 
 # APP INFO
 
-Author
-Shreenidhi Sharma N
+   ## Author
+      Shreenidhi Sharma N
 
 
 
